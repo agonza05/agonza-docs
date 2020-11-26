@@ -20,5 +20,5 @@
   items:
     - label: 'LTM'
       link: '/f5/ltm'
-     label: 'DNS'
+    - label: 'DNS'
       link: '/f5/dns'
