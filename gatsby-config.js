@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.com`,
-    siteAuthor: `@rocketseat`,
-    siteImage: `/banner.png`,
+    siteTitle: `Docs - Alberto Gonzalez`,
+    defaultTitle: `Docs - Alberto Gonzalez`,
+    siteTitleShort: `Docs - Alberto Gonzalez`,
+    siteDescription: `Documentation and notes from my daily work.`,
+    siteUrl: `https://docs.agonza.net`,
+    siteAuthor: `@agonza05`,
+    siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
     basePath: `/`,
@@ -43,7 +43,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rocketdocs.netlify.com`,
+        siteUrl: `https://docs.agonza.net`,
       },
     },
     `gatsby-plugin-offline`,
